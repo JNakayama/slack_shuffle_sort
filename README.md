@@ -1,2 +1,2 @@
 # slack_shuffle_sort
-特定のメンバーの順番を決定しあslackへ通知する
+特定のメンバーの順番を決定しslackへ通知する
